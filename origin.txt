@@ -1,0 +1,296 @@
+Uri: https://binokl.akciya.info/?gclid=CjwKCAiAkJKCBhAyEiwAKQBCkv287kCPy7hZHsEdECFN-ef4L3dMJVtIfM8XtsAsVko6c8oc_bSAihoCjAMQAvD_BwE
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\index.htm
+Content Type: text/html
+
+Uri: https://binokl.akciya.info/static/land/css/reset.css
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\land\css\reset.css
+Content Type: text/css
+
+Uri: https://binokl.akciya.info/static/land/js/slider/owlCarousel-2.2.1/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\land\js\slider\owlCarousel-2.2.1\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://binokl.akciya.info/css/styles.css
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\css\styles.css
+Content Type: text/css
+
+Uri: https://binokl.akciya.info/politics.html
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\politics.html
+Content Type: text/html
+
+Uri: https://binokl.akciya.info/static/fonts/roboto.css
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\roboto.css
+Content Type: text/css
+
+Uri: https://binokl.akciya.info/images/about__image.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\about__image.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/images/benefits__benefit1_icon.png
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\benefits__benefit1_icon.png
+Content Type: image/png
+
+Uri: https://binokl.akciya.info/images/benefits__benefit2_icon.png
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\benefits__benefit2_icon.png
+Content Type: image/png
+
+Uri: https://binokl.akciya.info/images/benefits__benefit3_icon.png
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\benefits__benefit3_icon.png
+Content Type: image/png
+
+Uri: https://binokl.akciya.info/images/info__info1_image.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\info__info1_image.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/images/info__info2_image.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\info__info2_image.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/images/info__info3_image.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\info__info3_image.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/images/info__info4_image.png
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\info__info4_image.png
+Content Type: image/png
+
+Uri: https://binokl.akciya.info/images/characteristics__slider__image1.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\characteristics__slider__image1.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/images/characteristics__slider__image2.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\characteristics__slider__image2.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/images/characteristics__slider__image3.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\characteristics__slider__image3.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/images/reviews__review1_photo.png
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\reviews__review1_photo.png
+Content Type: image/png
+
+Uri: https://binokl.akciya.info/images/reviews__review1_avatar.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\reviews__review1_avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/images/reviews__review2_photo.png
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\reviews__review2_photo.png
+Content Type: image/png
+
+Uri: https://binokl.akciya.info/images/reviews__review2_avatar.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\reviews__review2_avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/images/reviews__review3_photo.png
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\reviews__review3_photo.png
+Content Type: image/png
+
+Uri: https://binokl.akciya.info/images/reviews__review3_avatar.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\reviews__review3_avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/images/order_info__info1_icon.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\order_info__info1_icon.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/images/order_info__info2_icon.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\order_info__info2_icon.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/images/order_info__info3_icon.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\images\order_info__info3_icon.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/static/land/js/slider/owlCarousel-2.2.1/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\land\js\slider\owlCarousel-2.2.1\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://binokl.akciya.info/js/scripts.js
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://binokl.akciya.info/css/desctop__offer_bg.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\css\desctop__offer_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/css/offer__products_count_icon.png
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\css\offer__products_count_icon.png
+Content Type: image/png
+
+Uri: https://binokl.akciya.info/css/about__tick_icon.png
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\css\about__tick_icon.png
+Content Type: image/png
+
+Uri: https://binokl.akciya.info/css/desctop__info_bg.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\css\desctop__info_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/css/slider__arrows.png
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\css\slider__arrows.png
+Content Type: image/png
+
+Uri: https://binokl.akciya.info/css/desctop__reviews_bg.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\css\desctop__reviews_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/css/reviews__arrows.png
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\css\reviews__arrows.png
+Content Type: image/png
+
+Uri: https://binokl.akciya.info/css/tablet__offer_bg.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\css\tablet__offer_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/css/tablet__info_bg.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\css\tablet__info_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/css/mobile__offer_bg.jpg
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\css\mobile__offer_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://binokl.akciya.info/static/fonts/robotothin.woff2
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotothin.woff2
+Content Type: font/woff2
+
+Uri: https://binokl.akciya.info/static/fonts/robotothin.woff
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotothin.woff
+Content Type: font/woff
+
+Uri: https://binokl.akciya.info/static/fonts/robotothin.ttf
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotothin.ttf
+Content Type: font/ttf
+
+Uri: https://binokl.akciya.info/static/fonts/robotothinitalic.woff2
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotothinitalic.woff2
+Content Type: font/woff2
+
+Uri: https://binokl.akciya.info/static/fonts/robotothinitalic.woff
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotothinitalic.woff
+Content Type: font/woff
+
+Uri: https://binokl.akciya.info/static/fonts/robotothinitalic.ttf
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotothinitalic.ttf
+Content Type: font/ttf
+
+Uri: https://binokl.akciya.info/static/fonts/robotolight.woff2
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotolight.woff2
+Content Type: font/woff2
+
+Uri: https://binokl.akciya.info/static/fonts/robotolight.woff
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotolight.woff
+Content Type: font/woff
+
+Uri: https://binokl.akciya.info/static/fonts/robotolight.ttf
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotolight.ttf
+Content Type: font/ttf
+
+Uri: https://binokl.akciya.info/static/fonts/robotolightitalic.woff2
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotolightitalic.woff2
+Content Type: font/woff2
+
+Uri: https://binokl.akciya.info/static/fonts/robotolightitalic.woff
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotolightitalic.woff
+Content Type: font/woff
+
+Uri: https://binokl.akciya.info/static/fonts/robotolightitalic.ttf
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotolightitalic.ttf
+Content Type: font/ttf
+
+Uri: https://binokl.akciya.info/static/fonts/roboto.woff2
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\roboto.woff2
+Content Type: font/woff2
+
+Uri: https://binokl.akciya.info/static/fonts/roboto.woff
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\roboto.woff
+Content Type: font/woff
+
+Uri: https://binokl.akciya.info/static/fonts/roboto.ttf
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\roboto.ttf
+Content Type: font/ttf
+
+Uri: https://binokl.akciya.info/static/fonts/robotoitalic.woff2
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotoitalic.woff2
+Content Type: font/woff2
+
+Uri: https://binokl.akciya.info/static/fonts/robotoitalic.woff
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotoitalic.woff
+Content Type: font/woff
+
+Uri: https://binokl.akciya.info/static/fonts/robotoitalic.ttf
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotoitalic.ttf
+Content Type: font/ttf
+
+Uri: https://binokl.akciya.info/static/fonts/robotomedium.woff2
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotomedium.woff2
+Content Type: font/woff2
+
+Uri: https://binokl.akciya.info/static/fonts/robotomedium.woff
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotomedium.woff
+Content Type: font/woff
+
+Uri: https://binokl.akciya.info/static/fonts/robotomedium.ttf
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotomedium.ttf
+Content Type: font/ttf
+
+Uri: https://binokl.akciya.info/static/fonts/robotomediumitalic.woff2
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotomediumitalic.woff2
+Content Type: font/woff2
+
+Uri: https://binokl.akciya.info/static/fonts/robotomediumitalic.woff
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotomediumitalic.woff
+Content Type: font/woff
+
+Uri: https://binokl.akciya.info/static/fonts/robotomediumitalic.ttf
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotomediumitalic.ttf
+Content Type: font/ttf
+
+Uri: https://binokl.akciya.info/static/fonts/robotobold.woff2
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotobold.woff2
+Content Type: font/woff2
+
+Uri: https://binokl.akciya.info/static/fonts/robotobold.woff
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotobold.woff
+Content Type: font/woff
+
+Uri: https://binokl.akciya.info/static/fonts/robotobold.ttf
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotobold.ttf
+Content Type: font/ttf
+
+Uri: https://binokl.akciya.info/static/fonts/robotobolditalic.woff2
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotobolditalic.woff2
+Content Type: font/woff2
+
+Uri: https://binokl.akciya.info/static/fonts/robotobolditalic.woff
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotobolditalic.woff
+Content Type: font/woff
+
+Uri: https://binokl.akciya.info/static/fonts/robotobolditalic.ttf
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotobolditalic.ttf
+Content Type: font/ttf
+
+Uri: https://binokl.akciya.info/static/fonts/robotoblack.woff2
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotoblack.woff2
+Content Type: font/woff2
+
+Uri: https://binokl.akciya.info/static/fonts/robotoblack.woff
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotoblack.woff
+Content Type: font/woff
+
+Uri: https://binokl.akciya.info/static/fonts/robotoblack.ttf
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotoblack.ttf
+Content Type: font/ttf
+
+Uri: https://binokl.akciya.info/static/fonts/robotoblackitalic.woff2
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotoblackitalic.woff2
+Content Type: font/woff2
+
+Uri: https://binokl.akciya.info/static/fonts/robotoblackitalic.woff
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotoblackitalic.woff
+Content Type: font/woff
+
+Uri: https://binokl.akciya.info/static/fonts/robotoblackitalic.ttf
+File Name: c:\Downloaded Web Sites\binokl.akciya.info\static\fonts\robotoblackitalic.ttf
+Content Type: font/ttf
+
